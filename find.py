@@ -1,13 +1,7 @@
 #!/usr/bin/python3
 
 import os
-import sys
 import argparse
-
-f"""
-Usage:
-python3 {sys.argv[0]} --help 
-"""
 
 
 def main():
